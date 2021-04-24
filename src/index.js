@@ -1,4 +1,4 @@
-import checkboxTheme from './checkbox';
+import './checkbox.js';
 
 import './styles.css';
 
